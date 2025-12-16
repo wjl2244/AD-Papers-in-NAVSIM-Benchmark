@@ -1,6 +1,6 @@
 # AD-Papers-in-NavSim-Benchmark
 
-## Paper List: End-to-End Autonomous Driving on NavSim
+## 📕Paper List: End-to-End Autonomous Driving on NavSim
 
 🚗This repository maintains a curated list of academic papers that implement and evaluate end-to-end autonomous driving models on the NavSim simulation benchmark. The goal is to track progress and compare methods within this benchmark setting.
 
